@@ -1,4 +1,4 @@
-FROM ibm-semeru-runtimes:11
+FROM eclipse-temurin:11
 
 WORKDIR /tmp
 
