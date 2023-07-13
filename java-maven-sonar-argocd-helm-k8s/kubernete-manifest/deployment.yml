@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: spring-boot-container
-          image: divya422/java-spring-boot:image-tag
+          image: divya422/java-spring-boot:f35ac61435d4846cd2c7163866921d63998a0fb5
           ports:
             - containerPort: 8080
         
